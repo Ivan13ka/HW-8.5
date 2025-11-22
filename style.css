@@ -1,0 +1,48 @@
+.yellow{
+    color: yellow;
+}
+
+.text-box>h3:first-of-type {
+    color: pink;
+}
+
+#greycol {
+    color: gray;
+}
+
+.green {
+ color: green;
+}
+
+.color-red {
+    color: red;
+}
+
+.day {
+    font-size: 22px;
+    color: pink;
+}
+
+.day2 {
+   font-size: 18px;
+   background-color: lightblue;
+}
+
+.day3 {
+    text-decoration: none;
+     background-color: rgb(241, 34, 68);
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
+
+.day4 {
+    color: rgb(199, 130, 245);
+    font-size: 26px;
+}
+
+.day5 {
+    text-decoration: none;
+     background-color: rgba(114, 207, 250, 0.829);
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
